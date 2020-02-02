@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\GameController.cs">
+    <Files>
+      <File FileName="Assets\script\Admanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\ranking\PlayGames.cs" Line="1" Column="1" />
+      <File FileName="Assets\SwipeMenu\Scripts\SwipeMenu\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\GameController.cs" Line="159" Column="15" />
+      <File FileName="Assets\script\DialogManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\shop\QuiteGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Const.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Move.cs" Line="40" Column="44" />
+      <File FileName="Assets\GooglePlayGames\Platforms\Native\PInvoke\GameServicesBuilder.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\DestroyMaterial.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
